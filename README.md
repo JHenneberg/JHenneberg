@@ -10,7 +10,8 @@
 
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=FEC601)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=FEC601)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=FEC601)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=FEC601)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=FEC601)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=FEC601)
 
 <!--
